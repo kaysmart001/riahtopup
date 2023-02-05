@@ -11,10 +11,10 @@
 
 <?php 
 
-$servername = "localhost";
-$username = "root";
-$password = "";
-$dbname = "datadb";
+$servername = "sql105.epizy.com";
+$username = "epiz_33070717";
+$password = "WBtcNlYDj3Y5qkD";
+$dbname = "epiz_33070717_vtu_db";
 
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
