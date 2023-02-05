@@ -1,9 +1,9 @@
 <?php
 
-$servername = 'localhost';
-     $user = 'root';
-     $password = '';
-     $dbname = 'datadb';
+$servername = 'sql105.epizy.com';
+     $user = 'epiz_33070717';
+     $password = 'WBtcNlYDj3Y5qkD';
+     $dbname = 'epiz_33070717_vtu_db';
  
      $conn = mysqli_connect($servername, $user, $password, $dbname);
 
